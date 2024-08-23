@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 modified file 1_master
+=======
+modified file 1_branch3
+>>>>>>> branch3
 
